@@ -58,15 +58,19 @@
     - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo?t=977)
     - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
     - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
-- Maths for DSA
-    - Introduction
-    - Complete Bitwise Operators
-    - Prime numbers
-    - HCF / LCM
-    - Sieve of Eratosthenes
-    - Newton's Square Root Method
-    - Number Theory
-    - Euclidean algorithm
+- [Maths for DSA](https://youtu.be/fzip9Aml6og)
+    - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
+    - [Complete Bitwise Operators](https://www.youtube.com/watch?t=95)
+    - [Range of numbers](https://www.youtube.com/watch?t=4169)
+    - [Prime numbers](https://youtu.be/lmSpZ0bjCyQ?t=57)
+    - [Sieve of Eratosthenes](https://youtu.be/lmSpZ0bjCyQ?t=850)
+    - [Newton's Square Root Method](https://youtu.be/lmSpZ0bjCyQ?t=1989)
+    - [Factors](https://youtu.be/lmSpZ0bjCyQ?t=3004)
+    - [Modulo properties](https://youtu.be/lmSpZ0bjCyQ?t=3980)
+    - [Number Theory](https://youtu.be/lmSpZ0bjCyQ?t=4405)
+    - [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
+    - [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
+    
 - [Recursion](https://youtu.be/M2uO2nMT0Bk)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
@@ -85,18 +89,18 @@
     - Recursion Array Problems
     - Recursion Pattern Problems
     - Subset Questions
-- Space and Time Complexity Analysis
-    - Introduction
-    - Comparisons of various cases
-    - Solving Linear Recurrence Relations
-    - Solving Divide and Conquer Recurrence Relations
-    - Big-O, Big-Omega, Big-Theta Notations
-    - Little Notations
-    - Get equation of any relation easily - best and easiest approach
-    - Complexity discussion of all the problems we do
-    - Space Complexity 
-    - Memory Allocation of various languages
-    - NP-Completeness Introduction
+- [Space and Time Complexity Analysis](https://youtu.be/mV3wrLBbuuE)
+    - [Introduction](https://youtu.be/mV3wrLBbuuE)
+    - [Comparisons of various cases](https://youtu.be/mV3wrLBbuuE?t=1039)
+    - [Solving Linear Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=6252)
+    - [Solving Divide and Conquer Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=4609)
+    - [Big-O, Big-Omega, Big-Theta Notations](https://youtu.be/mV3wrLBbuuE?t=2271)
+    - [Little Notations](https://youtu.be/mV3wrLBbuuE?t=2960)
+    - [Get equation of any relation easily - best and easiest approach](https://youtu.be/mV3wrLBbuuE?t=8189)
+    - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
+    - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
+    - [Memory Allocation of various languages](https://youtu.be/mV3wrLBbuuE)
+    - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - Object Oriented Programming
     - Introduction
     - Classes & its instances
